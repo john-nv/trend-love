@@ -10,4 +10,4 @@
 > 
 > dòng 39: Thay đổi đoạn text theo ý của bạn
 
-- Và tận hưởng thành quả thôi nào bạn có thể deloy code lên page github, hướng dẫn cụ thể [ở đây](https://code2gio.com/huong-dan/dua-website-len-mang-su-dung-github/)
+- Và tận hưởng thành quả thôi nào, bạn có thể deloy code lên page github, hướng dẫn cụ thể [ở đây](https://code2gio.com/huong-dan/dua-website-len-mang-su-dung-github/)
