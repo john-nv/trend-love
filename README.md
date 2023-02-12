@@ -12,6 +12,6 @@
 
 - Và tận hưởng thành quả thôi nào, bạn có thể deloy code lên page github, hướng dẫn cụ thể [ở đây](https://code2gio.com/huong-dan/dua-website-len-mang-su-dung-github/)
 
-> link thành quả [ở đây](https://quangc992.github.io/trend-trai-tim/)
+> link thành quả [ở đây](https://quangc992.github.io/trend-love/)
 > 
 > nói thêm : hình ảnh của link trên có thể bị mất bị chủ sở hữu thay đổi đường dẫn hoặc xóa, bạn có thể tải hình ảnh về để tránh trường hợp này
